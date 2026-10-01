@@ -37,3 +37,17 @@
     "layout/sidebar",
     "layout/json_cv"
 ;
+
+.greedy-nav {
+  display: flex;
+}
+
+.greedy-nav .visible-links {
+  margin-right: auto;
+}
+
+.greedy-nav #theme-toggle {
+  position: absolute;
+  right: 50%;
+  margin-right: -22.75em;
+}
