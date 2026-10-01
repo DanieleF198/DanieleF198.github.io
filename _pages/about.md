@@ -44,7 +44,7 @@ On the ILP side I have published results in *Theory and Practice of Logic Progra
 
 ## Service
 
-**Co-organizer** - WEB&GRAPH 2026, co-located with WSDM 2026.
+**Co-organizer** and **reviewer** - WEB&GRAPH 2026, co-located with WSDM 2026.
 
 **Reviewer** - CIKM 2026.
 
