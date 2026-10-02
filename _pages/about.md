@@ -11,7 +11,7 @@ I'm a **Ph.D. student in Computer Science** at the [University of L'Aquila](http
 
 My research focuses on **eXplainable AI**, especially on **Mechanistic Interpretability**, which aims to offer a human-understandable layer by reverse-engineering what actually happens inside deep neural networks, and post-hoc methods based on **Inductive Logic Programming**, which instead approximate models' behaviour with logical theories that can be read and checked directly.
 
-On the ILP side I have published results in *Theory and Practice of Logic Programming*, along with **GRANITA**, an open dataset intended as a benchmark for preference learning algorithms and explainable AI methods alike. Mechanistic Interpretability is what I am working on right now, and it is where my Ph.D. is headed. Stay tuned!
+On the ILP side I have published results in *Theory and Practice of Logic Programming*, along with [**GRANITA**](https://zenodo.org/records/21068569), an open dataset intended as a benchmark for preference learning algorithms and explainable AI methods alike. Mechanistic Interpretability is what I am working on right now, and it is where my Ph.D. is headed. Stay tuned!
 
 ## Selected Highlights
 
@@ -20,7 +20,7 @@ On the ILP side I have published results in *Theory and Practice of Logic Progra
 | 2026 | 📝 Submitted a paper on the **foundations of Mechanistic Interpretability** to a top-tier conference |
 | 2026 | 🎓 Attended **ECML PKDD 2026**, Naples |
 | 2026 | 🔎 Reviewed for **CIKM 2026** |
-| 2026 | 📊 Released **GRANITA**, an open dataset for interpretable preference learning |
+| 2026 | 📊 Released [**GRANITA**](https://zenodo.org/records/21068569), an open dataset for interpretable preference learning |
 | 2026 | 📘 Published in **Theory and Practice of Logic Programming** |
 | 2026 | 👥 Co-organized **WEB&GRAPH 2026**, co-located with **WSDM 2026** |
 | 2025 | 🧠 Attended **ACDL 2025**, the 8th Advanced Course on Data Science & Machine Learning (8 ECTS) |
